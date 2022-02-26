@@ -62,7 +62,7 @@ class Cars {
         this.color = color;
     }
     showCar() {
-        document.write(`Марка авто: ${this.model} <br> Год выпуска: ${this.year} <br> Мощность двигателя: ${this.capacity} <br> Цвет машины: ${this.color}<br>`)
+        document.write(`Марка авто: ${this.model} <br> Год выпуска: ${this.year} <br> Мощность двигателя: ${this.capacity} <br> Цвет машины: ${this.color}<br> <br>`)
     }
 }
 
